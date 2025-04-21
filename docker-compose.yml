@@ -1,7 +1,7 @@
 vversion: '3.8'
 services:
  wings:
-  image: ghcr.io/pterodactyl/wings:v1.6.1
+  image: ghcr.io/pterodactyl/wings:v1.11.10
   restart: always
   networks:
    - wings0
